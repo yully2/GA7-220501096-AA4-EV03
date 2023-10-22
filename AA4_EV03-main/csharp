@@ -1,0 +1,13 @@
+my-beer-ecommerce/
+  ├── src/
+  │   ├── components/
+  │   │   ├── ProductList.js
+  │   │   ├── ProductDetail.js
+  │   ├── App.js
+  │   ├── index.js
+  ├── public/
+  ├── package.json
+  ├── package-lock.json (o yarn.lock)
+  ├── .babelrc
+  ├── .eslintrc
+  ├── webpack.config.js
